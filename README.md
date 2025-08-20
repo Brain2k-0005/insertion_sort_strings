@@ -219,4 +219,4 @@ static void InsertionSort(string[] array)
 
 ---
 
-**Viel Erfolg beim Lernen & Debuggen!** Wenn du willst, ergänze ich noch eine Variante mit **`Span<char>`** oder **`StringComparer`** (z. B. `StringComparer.OrdinalIgnoreCase`) und erkläre die Unterschiede in Performance und Sortierreihenfolge.
+**Viel Erfolg beim Lernen & Debuggen!**
